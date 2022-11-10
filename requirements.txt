@@ -1,0 +1,2 @@
+psij-python>=0.1.0
+funcx>=1.0.5
